@@ -1,7 +1,6 @@
 Makine Öğrenmesi ile Kalan Kullanım Ömrü (RUL) Tahmini
 Bu proje, bir makine öğrenmesi projesi kapsamında Kalan Kullanım Ömrü (Remaining Useful Life, RUL) tahmini yapmak için geliştirilmiştir. Çalışmada çeşitli regresyon algoritmaları ve veri ön işleme teknikleri uygulanmıştır.
 
-Veri Seti
 Veri seti, makine operasyon verilerini içermektedir. Her satır bir makine çalışması döngüsünü temsil eder ve hedef değişken olarak ilgili döngüdeki RUL değeri bulunur. Veri setinde şunlar yer almaktadır:
 
 Ölçülen sayısal sensör değerleri
